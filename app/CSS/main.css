@@ -1,0 +1,295 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1 , h2 {
+			text-align: left;
+			
+		}
+.shapka1{
+	color: #DCF1F4;
+
+}
+h1{
+	padding: px;
+}
+
+.shapka{
+	padding: 120px;
+	font-size: 21px;
+}
+.rt{
+	color: #DCF1F4;
+    
+}
+
+		footer{
+			text-align: center;
+			font-size: 16px
+		}
+		h1{
+			font-family: 'Rubikwght@300', sans-serif;
+		}
+		h2{
+			font-family: 'Rubikwght@300', sans-serif;
+		}
+
+		h3{
+			text-align: center;
+			border: 2px solid;
+			border-radius: 10px;
+			padding: 10px;
+			margin: 30px;
+			font-family: 'Rubikwght@400', sans-serif;
+		}
+
+.main-headers{
+	background-image: url(https://ofp-pro.com/image/catalog/3info/sp1.jpg);
+	height: 460px;
+	background-position: center;
+	background-size: cover;
+}
+
+.t1{
+	background-color:
+	color:
+	border: 2px solid
+	margin-top: 0;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.6);
+	opacity: 1;
+}
+
+.t1:hover{
+	opacity: 0.7;
+	transform: scale(1.1);
+ 	transition: 0.5s;
+ 	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+ 	color: ;
+ 	background-color: ;
+	
+}
+
+.t1:active{
+	box-shadow: none;
+}
+
+.rt{
+	text-align: left;
+	color: ;
+}
+
+.t2{
+	text-align: center;
+	border: 2px solid;
+	margin-top: 0;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.6);
+	opacity: 1;
+
+}
+
+.t2:hover{
+	opacity: 0.7;
+	transform: scale(1.1);
+ 	transition: 0.5s;
+ 	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+ 	color: ;
+ 	background-color: ;
+	
+}
+
+.t2:active{
+	box-shadow: none;
+}
+
+.t4{
+	margin-top: 0;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.6);
+	opacity: 1;
+}
+
+.t4:hover{
+	opacity: 0.7;
+	transform: scale(1.1);
+ 	transition: 0.5s;
+ 	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+ 	color: ;
+ 	background-color: ;
+	
+}
+
+.t4:active{
+	box-shadow: none;
+}
+
+li{
+	margin-top: 20px ;
+}
+
+img{
+	box-shadow: 0 0 15px 1px rgba(0,0,0,0.5);
+	width: 100%
+	height: auto;
+	opacity: 1;
+	transition: .5s;
+}
+
+img:hover{
+	opacity: 0.5;
+}
+
+.content{
+	width: 90%;
+	margin: auto;
+	background-color: #DCF1F4;
+	box-shadow: 0 10px 10px 1px rgba(0,0,0,0.5);
+	max-width:2800px; 
+}
+
+html{
+	background-color: #DCDCDC;
+}
+
+.menu{
+	width: 100%;
+	padding: 20px 0;
+	background-color: #DCF1F4;
+	margin-bottom: 40px;
+}
+
+.menu td{
+	text-align: center;
+	max-width: 50px;
+}
+
+button{
+	font-size: 15px;
+	padding: 5px 15px;
+	border-radius: 30px;
+	background-color: #139CDD;
+	color: #ffffff;
+}
+
+ .menu button:hover{
+ 	transform: scale(1.1);
+ 	transition: 0.3s;
+ 	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+ 	color: ;
+ 	background-color: ;
+ }
+
+.menu button:active{
+	background-color: #120C0CA;
+}
+
+ p{
+ 	margin: 30px 0;
+ 	font-family: 'Rubikwght@300', sans-serif;
+ }
+ p:hover{
+ 	text-decoration: underline;
+ }
+
+ ul{
+ 	font-family: 'Rubikwght@400', sans-serif; 
+
+ }
+
+ .umenia tbody tr:nth-child(odd){
+ 	color: white;
+ 	background-color: gray;
+ }
+
+.tt{
+	background-color: gray;
+}
+
+.ttr{
+
+	 margin: 2px;
+}
+
+.ttr:hover{
+	text-decoration: underline;
+}
+
+
+ul{
+	padding: 20px;
+}
+
+.t3{
+	margin-top: 0;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.6);
+	opacity: 1;
+}
+
+.t3:hover{
+	opacity: 0.7;
+	transform: scale(1.1);
+ 	transition: 0.5s;
+ 	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+ 	color: ;
+ 	background-color: ;
+	
+}
+
+.t3:active{
+	box-shadow: none;
+}
+
+body {
+  color: #222;
+  background: #fff;
+}
+
+a {
+  color: #0033cc;
+}
+
+.h1{
+	padding: 10px;
+}
+
+.p1{
+	font-family: 'Rubikwght@300', sans-serif;
+	padding: 30px;
+}
+.p1:hover{
+	text-decoration: underline;
+	}
+
+table{
+	font-family: 'Rubikwght@300', sans-serif;
+}
+
+.svazuyushij{
+	padding: 30px;
+}
+
+.h1-2{
+ 	padding: 50px;
+ 	text-align: right;
+ }
+
+.libero{
+ 	padding: : 30px;
+ }
+
+.h2{
+ 	padding: 50px;
+ }
+
+.img2{
+ 	margin: 30px;
+ }
+
+.posozdatele{
+ 	font-family: 'Rubikwght@300', sans-serif;
+ 	padding: 5px;
+ }
+ .h1osozdatele{
+ 	padding: 10px;
+ }
+
